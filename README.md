@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hey, I'm Vivianna!
 
-<!--
-**viviannasolis3/viviannasolis3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  🎓 Informatics Graduate Student | USC Upstate Flag FB Graduate Assistant 🏈
+  <br>
+  🧬 B.S. in Health Science | Minor in Computer Science
+  <br>
+  📊 Interested in Sports Performance Technology, Data Analytics & AI
+  <br>
+  💻 Exploring the intersection of sports science and technology
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=viviannasolis3&show_icons=true&theme=tokyonight" alt="Vivianna's GitHub Stats" />
+</p>
